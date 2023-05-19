@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp\\CursoCSharp.csproj": {}
+    "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp2\\CursoCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp\\CursoCSharp.csproj": {
+    "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp2\\CursoCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
+        "projectUniqueName": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp2\\CursoCSharp.csproj",
         "projectName": "CursoCSharp",
-        "projectPath": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp\\CursoCSharp.csproj",
+        "projectPath": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp2\\CursoCSharp.csproj",
         "packagesPath": "C:\\Users\\andre.lpsjunior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp\\obj\\",
+        "outputPath": "C:\\Users\\andre.lpsjunior\\source\\repos\\CursoCSharp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -14,8 +14,9 @@ namespace CursoCSharp {
                 {"Formatando Números - Fundamentos",FormatandoNumeros.Executar},
                 {"Operadores Aritméticos - Fundamentos",OperadoresAritmeticos.Executar },
                 {"Exercicios Operadores - Fundamentos",ExerciciosOperadores.Executar },
-                {"Exercicios If Else - Fundamentos",ExerciciosIfElse.Executar }
-
+                {"Exercicios If Else - Fundamentos",ExerciciosIfElse.Executar },
+                {"Estrutura Switch - Fundamentos",EstruturaSwitch.Executar },
+                {"Estrutura While E For - Fundamentos",EstruturaWhileEfor.Executar }
             });
 
             central.SelecionarEExecutar();

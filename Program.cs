@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-
 using CursoCSharp.Fundamentos;
 
 namespace CursoCSharp {
@@ -16,7 +15,8 @@ namespace CursoCSharp {
                 {"Exercicios Operadores - Fundamentos",ExerciciosOperadores.Executar },
                 {"Exercicios If Else - Fundamentos",ExerciciosIfElse.Executar },
                 {"Estrutura Switch - Fundamentos",EstruturaSwitch.Executar },
-                {"Estrutura While E For - Fundamentos",EstruturaWhileEfor.Executar }
+               // {"Estrutura While E For - Fundamentos",EstruturaWhileEfor.Executar },
+                {"Estruturas de Repetição - Fundamentos",EstruturasDeRepeticao.Executar }
             });
 
             central.SelecionarEExecutar();

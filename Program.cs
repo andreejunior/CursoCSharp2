@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.Poo;
 
 namespace CursoCSharp {
     class Program {
@@ -37,7 +38,13 @@ namespace CursoCSharp {
 
                 //Coleções
                 {"Arrays - Coleções",Arrays.Executar },
-                {"Coleções Queue - Coleções",ColecoesQueue.Executar }
+                {"Coleções Queue - Coleções",ColecoesQueue.Executar },
+                {"Coleções Stack - Coleções",ColecoesStack.Executar },
+
+                //Poo
+                {"Herança - Poo",Heranca.Executar },
+                {"Construtor This - Poo",ConstrutorThis.Executar },
+                {"Encapsulamento - Poo",Encapsulamento.Executar }
             });
 
             central.SelecionarEExecutar();

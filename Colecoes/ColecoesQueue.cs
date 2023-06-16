@@ -10,7 +10,7 @@ namespace CursoCSharp.Colecoes
     {
         public static void Executar()
         {
-            var fila = new Queue<string();
+            var fila = new Queue<string>();
 
             //vamos enfileirar
             fila.Enqueue("Cleiton");
